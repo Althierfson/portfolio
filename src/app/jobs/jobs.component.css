@@ -1,0 +1,22 @@
+@charset "URF-8";
+
+h2 {
+    font-size: 18px;
+    padding-left: 10px;
+}
+
+div#lista-jobs h3 {
+    font-size: 12px;
+    padding-left: 20px;
+}
+
+div#lista-jobs p {
+    font-size: 12px;
+    padding-left: 20px;
+}
+
+div#links {
+    font-size: 12px;
+    float: left;
+    padding-left: 30px;
+}

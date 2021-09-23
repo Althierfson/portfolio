@@ -1,0 +1,11 @@
+<h2>Alguns dos meus projetos e trabalhos</h2>
+
+<div id="lista-jobs" *ngFor="let job of trabalhos">
+    <h3>{{ job.nome }}</h3>
+    <p>{{ job.discricao }}</p>
+
+    <div id="links" *ngFor="let link of job.links">
+        <a href={{link.url}} target="blank">&#10141; {{ link.nome }}</a>
+    </div>
+    <p><br></p>
+</div>
