@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MainFrameComponent } from './main-frame/main-frame.component';
 import { JobsComponent } from './jobs/jobs.component';
+import { ContatoViewComponent } from './contato-view/contato-view.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MainFrameComponent,
-    JobsComponent
+    JobsComponent,
+    ContatoViewComponent
   ],
   imports: [
     BrowserModule,

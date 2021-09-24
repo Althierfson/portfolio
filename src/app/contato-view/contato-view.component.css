@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+div#contatos {
+    position: fixed;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px black;
+    padding: 10px;
+    margin-left: 1300px;
+    width: 300px;
+}
+
+div#contatos ul {
+    font-size: 16px;
+    padding-left: 20px;
+}
+
+div#contatos h2 {
+    font-size: 20px;
+    margin-bottom: -10px;
+    margin-top: -0px;
+}
+
+div#contatos a {
+    text-decoration: none;
+}

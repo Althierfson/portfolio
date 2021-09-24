@@ -27,27 +27,26 @@ div#top-left {
 
 div img {
     position: absolute;
-    width: 200px;
+    width: 250px;
     border-radius: 50%;
-    top: 10px;
+    top: 70px;
     left: 5%;
 }
 
 section h2 {
-    font-size: 18px;
+    font-size: 24px;
+    margin: 0px;
 }
 
 section h3 {
-    font-size: 14px;
+    font-size: 18px;
     margin-bottom: -10px;
 }
 
-section p {
-    margin-bottom: 10px;
-    padding-left: 20px;
-    font-size: 12px;
+section li {
+    font-size: 14px;
 }
 
-section li {
-    font-size: 12px;
+div#top a {
+    text-decoration: none;
 }
