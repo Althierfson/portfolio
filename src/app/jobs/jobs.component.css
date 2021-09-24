@@ -12,11 +12,13 @@ div#lista-jobs h3 {
 
 div#lista-jobs p {
     font-size: 12px;
-    padding-left: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
 }
 
 div#links {
     font-size: 12px;
     float: left;
-    padding-left: 30px;
+    padding-left: 20px;
 }
